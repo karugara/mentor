@@ -1,0 +1,1 @@
+realizando un proyecto para practicar git y subirlo a github mediante visual studio code
